@@ -5,7 +5,7 @@ spring:
     config:
       server:
         git:
-          default-label: config-service
+          default-label: eureka-service
           uri: https://github.com/albertosanchez56/Gestor-de-tareas-con-Microservicios
           search-paths: config-data
   application:
